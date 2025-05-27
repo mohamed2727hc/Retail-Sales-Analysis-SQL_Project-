@@ -7,3 +7,5 @@
    - SQL Server – for data querying and joining multiple tables
    - Power BI – for creating the interactive dashboard
    
+# My Dashboard 
+![image alt](https://github.com/mohamed2727hc/Retail-Sales-Analysis-SQL_Project-/blob/cde5e067fc705abdf616080d1d5c38ef8d8962ef/Screenshot%202025-05-27%20041829.png)
